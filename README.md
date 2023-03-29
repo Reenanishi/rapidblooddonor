@@ -1,4 +1,4 @@
-# rapidblooddonor
+# Rapid Blood Donor
 
 The goal of the project is to provide a web application to search nearby blood donors via geo fencing. An application will provide an option to contact individuals via email, sms or phone call. Users can set their preference to be contacted. An application will provide an option to contact a nearby user or hospital/organization. Application will allow searching by zip code or using geo fencing by providing current latitude and longitude and search radius in km.  Users can filter by using Blood group and Blood RhD. An application will only expose a phone number or email if allowed from User.
 
