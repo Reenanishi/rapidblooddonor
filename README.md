@@ -12,7 +12,7 @@ There are 4 main blood groups (types of blood) – A, B, AB and O. Your blood gr
 * User to contact user
 * Home page / Search page to contact a nearby hospital or organization by providing 
 
-<img width="1719" height="869" alt="Screenshot 2026-06-16 at 1 27 56 PM" src="https://github.com/user-attachments/assets/06423bd3-6929-498e-8da9-67e3d6b2f43c" />
+<img width="1703" height="860" alt="Screenshot 2026-06-16 at 1 29 44 PM" src="https://github.com/user-attachments/assets/b82421b8-b18b-4b70-856d-d8afceed71bc" />
 
 ## React + Python implementation
 
